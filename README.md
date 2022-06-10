@@ -2,7 +2,7 @@
 
 #
 This is The Love Running walkthrough Project. Code was copied as part of the training.
-When this repository i made public  live link for this project can be found [here:]().
+When this repository is made public a live link for can be found [here:]().
 
 # Below is an exaple Readme.md
 
